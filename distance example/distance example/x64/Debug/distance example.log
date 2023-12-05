@@ -1,0 +1,3 @@
+﻿  Distance.cpp
+C:\Users\kedri\OneDrive\Desktop\Design Patterns\distance example\distance example\Distance.cpp(25,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  distance example.vcxproj -> C:\Users\kedri\OneDrive\Desktop\Design Patterns\distance example\x64\Debug\distance example.exe

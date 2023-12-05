@@ -1,0 +1,3 @@
+﻿  Template.cpp
+C:\Users\kedri\OneDrive\Desktop\Design Patterns\Templated Method Pattern\Templated Method Pattern\Template.cpp(129,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Templated Method Pattern.vcxproj -> C:\Users\kedri\OneDrive\Desktop\Design Patterns\Templated Method Pattern\x64\Debug\Templated Method Pattern.exe
